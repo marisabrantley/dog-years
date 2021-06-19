@@ -1,4 +1,4 @@
-# Dog Years
+# Dog Years Project
 
 How old are you in dog years? In this Codecademy project, we used JavaScript math operators and variables to convert our human age into dog years.
 
