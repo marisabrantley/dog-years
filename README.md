@@ -9,4 +9,4 @@ How old are you in dog years? In this Codecademy project, we used JavaScript mat
 ## Class
 *Codecademy/Pro, Front-End Engineer Path*
 
-JavaScript Syntax: Introduction - JavaScript data types, built-in methods, and variables.
+JavaScript Syntax, Part I: Introduction - JavaScript data types, built-in methods, and variables.
